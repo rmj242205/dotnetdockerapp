@@ -29,4 +29,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: yourdockerhubusername/dotnetdockerapp:latest
+        tags: RMJ242205/dotnetdockerapp:latest
